@@ -35,7 +35,7 @@
 // }
 
 /* ①　データベースの接続情報を定数に格納する */
-//ロリポップ用接続
+// ロリポップ用接続
 // const DB_HOST = 'mysql:dbname=LAA1579749-kinkikids;host=mysql212.phy.lolipop.lan';
 // const DB_USER = 'LAA1579749';
 // const DB_PASSWORD = 'kinkikidsPass';
